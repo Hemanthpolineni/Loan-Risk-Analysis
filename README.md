@@ -45,14 +45,14 @@ Visualized and analyzed key metrics such as:
 - **Loan Amount Distribution**  
   ![Loan Amount Distribution](images/loan_amount_distribution.png)
 
-- **Interest Rate Patterns**  
+- **Default Rate Patterns**  
   ![Interest Rate Trends](images/interest_rate_trends.png)
 
-- **Income Skewness & Borrower Profiles**  
+- **Default Rate by Purpose**  
   ![Annual Income Distribution](images/annual_income_distribution.png)
 
-- **Loan Grade vs Default Rate**  
-  ![Loan Grade Impact](images/loan_grade_default_rate.png)
+- **Verification Status By Region**  
+  ![Loan Grade Impact](images/verification_by_region.png)
 
 > Borrowers with lower grades tend to default more frequently, showing a clear correlation between **loan grade** and **default risk**.
 
