@@ -41,18 +41,15 @@ Key steps in data preprocessing included:
 
 ## 📈 Exploratory Data Analysis (EDA)
 
-Visualized and analyzed key metrics such as:
+Visualised and analysed key metrics such as:
 - **Loan Amount Distribution**  
   ![Loan Amount Distribution](images/loan_amount_distribution.png)
-
-- **Default Rate Patterns**  
-  ![Interest Rate Trends](images/interest_rate_trends.png)
-
+- **Default Rate Trends / Patterns**  
+  ![Default Rate Trends](images/default_rate_trends.png)
 - **Default Rate by Purpose**  
-  ![Annual Income Distribution](images/annual_income_distribution.png)
-
-- **Verification Status By Region**  
-  ![Loan Grade Impact](images/verification_by_region.png)
+  ![Default Rate by Purpose](images/default_rate_by_purpose.png)
+- **Verification Status by Region**  
+  ![Verification by Region](images/verification_by_region.png)
 
 > Borrowers with lower grades tend to default more frequently, showing a clear correlation between **loan grade** and **default risk**.
 
