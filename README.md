@@ -45,9 +45,9 @@ Visualised and analysed key metrics such as:
 - **Loan Amount Distribution**  
   ![Loan Amount Distribution](images/loan_amount_distribution.png)
 - **Default Rate Trends / Patterns**  
-  ![Default Rate Trends](images/default_rate_trends.png)
+  ![Default Rate Trends](images/intrest_rate_trends.png)
 - **Default Rate by Purpose**  
-  ![Default Rate by Purpose](images/default_rate_by_purpose.png)
+  ![Default Rate by Purpose](images/annual_income_distribution.png)
 - **Verification Status by Region**  
   ![Verification by Region](images/verification_by_region.png)
 
